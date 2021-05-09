@@ -1,4 +1,4 @@
-# Rzk
+# F-Hanter
 $ pkg update && upgrade
 
 $ pkg install git
