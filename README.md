@@ -1,16 +1,22 @@
-### Hi there 👋
+# Rzk
+$ pkg update && upgrade
 
-<!--
-**Fadil-Hanter/Fadil-Hanter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ pkg install git
 
-Here are some ideas to get you started:
+$ pkg install python2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ pip2 install requests
+
+$ pip2 install mechanize
+
+$ pip2 install bs4
+
+$ gem install lolcat
+
+$ pkg install figlet
+
+$ git clone https://github.com/R0ZHAK/Rzk
+
+$ cd Rzk
+
+$ python2 Start.py
