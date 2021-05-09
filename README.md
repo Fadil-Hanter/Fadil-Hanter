@@ -15,8 +15,8 @@ $ gem install lolcat
 
 $ pkg install figlet
 
-$ git clone https://github.com/R0ZHAK/Rzk
+$ git clone https://github.com/Fadil-Hanter/Fadil-Hanter
 
-$ cd Rzk
+$ cd Fadil-Hanter
 
-$ python2 Start.py
+$ python2 F-Hanter.py
